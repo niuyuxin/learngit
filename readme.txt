@@ -6,3 +6,4 @@ Git tracks changes of files.
 Creat a new branch is quick AND simple.
 I changed it in this old computer.
 ok
+Creating a new branch is quick.
